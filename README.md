@@ -8,6 +8,10 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [All you need to know about Grafana as a beginner](https://siddo.hashnode.dev/grafana)
+- [How To Setup Kubernetes Cluster Using Kubeadm on Amazon EC2](https://siddo.hashnode.dev/kubeadm-on-ec2)
+- [How to install minikube on Amazon EC2](https://siddo.hashnode.dev/how-to-install-minikube-on-amazon-ec2)
+- [All you need to know about Database Partitioning as a developer](https://siddo.hashnode.dev/database-partitioning)
 <!-- HASHNODE:END -->
 
 
