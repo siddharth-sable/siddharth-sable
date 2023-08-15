@@ -14,4 +14,6 @@
 - [All you need to know about Database Partitioning as a developer](https://siddo.hashnode.dev/database-partitioning)
 <!-- HASHNODE:END -->
 
-
+[![siddharth-sable's GitHub | Stats](https://stats.quine.sh/siddharth-sable/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
+[![siddharth-sable's GitHub | Topics](https://stats.quine.sh/siddharth-sable/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
+[![siddharth-sable's GitHub | Languages Over Time](https://stats.quine.sh/siddharth-sable/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
