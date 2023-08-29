@@ -8,10 +8,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [Learning about Grafana dashboards and widgets](https://siddo.hashnode.dev/learning-about-grafana-dashboards-and-widgets)
+- [How to enable HTTPS for Grafana](https://siddo.hashnode.dev/how-to-enable-https-for-grafana)
 - [All you need to know about Grafana as a beginner](https://siddo.hashnode.dev/grafana)
 - [How To Setup Kubernetes Cluster Using Kubeadm on Amazon EC2](https://siddo.hashnode.dev/kubeadm-on-ec2)
 - [How to install minikube on Amazon EC2](https://siddo.hashnode.dev/how-to-install-minikube-on-amazon-ec2)
-- [All you need to know about Database Partitioning as a developer](https://siddo.hashnode.dev/database-partitioning)
 <!-- HASHNODE:END -->
 
 [![siddharth-sable's GitHub | Stats](https://stats.quine.sh/siddharth-sable/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
