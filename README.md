@@ -8,11 +8,11 @@
 
 ## Hashnode Blog Post
 <!-- HASHNODE:START -->
+- [What are Grafana data sources and how to configure prometheus as datasource in Grafana](https://siddo.hashnode.dev/grafana-data-sources-and-how-to-configure-prometheus-as-datasource-in-grafana)
 - [Learning about Grafana dashboards and widgets](https://siddo.hashnode.dev/learning-about-grafana-dashboards-and-widgets)
 - [How to enable HTTPS for Grafana](https://siddo.hashnode.dev/how-to-enable-https-for-grafana)
 - [All you need to know about Grafana as a beginner](https://siddo.hashnode.dev/grafana)
 - [How To Setup Kubernetes Cluster Using Kubeadm on Amazon EC2](https://siddo.hashnode.dev/kubeadm-on-ec2)
-- [How to install minikube on Amazon EC2](https://siddo.hashnode.dev/how-to-install-minikube-on-amazon-ec2)
 <!-- HASHNODE:END -->
 
 [![siddharth-sable's GitHub | Stats](https://stats.quine.sh/siddharth-sable/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
