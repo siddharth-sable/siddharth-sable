@@ -9,10 +9,10 @@
 
 ## My recent blog posts
 <!-- HASHNODE:START -->
+- [Setup Grafana for EKS](https://siddo.hashnode.dev/setup-grafana-for-eks)
 - [How to configure prometheus for EKS](https://siddo.hashnode.dev/how-to-configure-prometheus-for-eks)
 - [How to configure HA setup for Grafana using docker compose](https://siddo.hashnode.dev/ha-setup-for-grafana-using-docker-compose)
 - [What are Grafana data sources and how to configure prometheus as datasource in Grafana](https://siddo.hashnode.dev/grafana-data-sources-and-how-to-configure-prometheus-as-datasource-in-grafana)
 - [Learning about Grafana dashboards and widgets](https://siddo.hashnode.dev/learning-about-grafana-dashboards-and-widgets)
-- [How to enable HTTPS for Grafana](https://siddo.hashnode.dev/how-to-enable-https-for-grafana)
 <!-- HASHNODE:END -->
 
