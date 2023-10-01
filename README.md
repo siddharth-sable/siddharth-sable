@@ -1,7 +1,11 @@
 ### Hi there 👋 I am Siddharth
 
 
-<img width="523" alt="image" src="https://user-images.githubusercontent.com/66620788/180738137-1a34f8b5-1235-492b-996e-b8236b28294b.png">
+👋 Hi, I’m @siddharth-sable
+👀 I’m interested in Backend/Devops
+🌱 I’m currently learning nodejs
+💞️ I’m looking to collaborate on anything
+📫 How to reach me siddharth.sable4618@gmail.com 
 
 ## [Let's Connect 🚀](https://sidsabale.com)
 ![Visitor Count](https://profile-counter.glitch.me/siddharth-sable/count.svg)
@@ -15,6 +19,3 @@
 - [How To Setup Kubernetes Cluster Using Kubeadm on Amazon EC2](https://siddo.hashnode.dev/kubeadm-on-ec2)
 <!-- HASHNODE:END -->
 
-[![siddharth-sable's GitHub | Stats](https://stats.quine.sh/siddharth-sable/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
-[![siddharth-sable's GitHub | Topics](https://stats.quine.sh/siddharth-sable/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
-[![siddharth-sable's GitHub | Languages Over Time](https://stats.quine.sh/siddharth-sable/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=siddharth-sable)
