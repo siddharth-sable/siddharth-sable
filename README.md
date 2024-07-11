@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddharth-sable
 - 👀 I’m interested in Backend/Devops
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently building a filesystem
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me siddharth.sable4618@gmail.com 
 
