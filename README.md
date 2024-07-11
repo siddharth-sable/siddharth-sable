@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me siddharth.sable4618@gmail.com 
 
-## [Visit my site 🚀](https://sidsabale.com)
+## [Visit my linkedin 🚀](https://linkedin.com/in/siddharth-sable)
 ![Visitor Count](https://profile-counter.glitch.me/siddharth-sable/count.svg)
 
 ## My recent blog posts
