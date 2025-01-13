@@ -9,10 +9,10 @@
 
 ## My recent blog posts
 <!-- HASHNODE:START -->
+- [The Hexagonal Architecture](https://siddo.hashnode.dev/the-hexagonal-architecture)
+- [Effective Strategies to Prevent Inode Build-up in Linux: A Comprehensive Guide](https://siddo.hashnode.dev/effective-strategies-to-prevent-inode-build-up-in-linux-a-comprehensive-guide)
 - [Create Jenkins pipeline using default UI and blueocean](https://siddo.hashnode.dev/create-jenkins-pipeline-using-default-ui-and-blueocean)
 - [Setup Grafana for EKS](https://siddo.hashnode.dev/setup-grafana-for-eks)
 - [How to configure prometheus for EKS](https://siddo.hashnode.dev/how-to-configure-prometheus-for-eks)
-- [How to configure HA setup for Grafana using docker compose](https://siddo.hashnode.dev/ha-setup-for-grafana-using-docker-compose)
-- [What are Grafana data sources and how to configure prometheus as datasource in Grafana](https://siddo.hashnode.dev/grafana-data-sources-and-how-to-configure-prometheus-as-datasource-in-grafana)
 <!-- HASHNODE:END -->
 
